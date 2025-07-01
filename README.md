@@ -17,3 +17,6 @@ The Active Directory and Splunk Integration Lab project aimed to establish a con
 - Splunk for log ingestion and analysis
 - Sysmon for monitoring and logging system activities on Windows Machine.
 - Active Directory for user management
+
+### Topology
+![image alt](https://github.com/Zekee00a/Active-Directory-Configuration/blob/main/Active%20Directory.png?raw=true)
