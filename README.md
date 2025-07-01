@@ -2,7 +2,7 @@
 
 ## Objective
 
-The Active Directory and Splunk Integration Lab project aimed to establish a controlled environment by configuring an Ubuntu server to host SPlunk. Set up a Windows Server 2022 as a domain controller with Active Directory, created user accounts, and deployed Splunk Universal Forwarder and Sysmon on both the Windows Server and a Windows 10 machine. Simulate a brute force attack on the Windows 10 machine through RDP and analyzed the logs in Splunk.
+The Active Directory and Splunk Integration Lab project aimed to establish a controlled environment by configuring an Ubuntu server to host Splunk. Set up a Windows Server 2022 as a domain controller with Active Directory, created user accounts, and deployed Splunk Universal Forwarder and Sysmon on both the Windows Server and a Windows 10 machine. Simulate a brute force attack on the Windows 10 machine through RDP and analyzed the logs in Splunk.
 
 ### Skills Learned
 
